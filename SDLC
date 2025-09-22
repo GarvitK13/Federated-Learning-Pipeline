@@ -1,0 +1,34 @@
+KEY POINTS
+-ecg sampling rate
+(Apple watch -512Hz
+physionet data - 300Hz)
+
+-differntial privacy
+-synthetic ecg generator
+_______________________________________________________________
+
+SAFEGAURDS FOR MODEL SKEWNESS
+-centralized balanced test cet
+-fedavgM
+-robust aggregtion methods
+
+_______________________________________________________________
+LINKS
+
+ECG from apple watch :
+https://chatgpt.com/share/68cfadae-9aa4-800d-b5f0-c4dd9acceef7
+
+
+_______________________________________________________________
+
+FRONT END APP
+-apple watch sinc
+-import ecg pdf [file type conversion]
+-Display results
+-export results
+
+_________________________________________________________________
+END GOALS
+[[rollback system]]
+[[multiple federated pipelines-Hearrate, sleepcycle,etc]]
+[[maybe healthcare LLm integration]]
